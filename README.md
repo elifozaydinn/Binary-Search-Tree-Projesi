@@ -24,3 +24,5 @@ Proje 3
 - 2, 7 ve 5'ten küçük; 1'den büyük ve 3'ten küçük olduğu için 3'ün solunda bulunur.
 
 [patika adresim](https://app.patika.dev/elifozaydin)
+
+[Patika.dev](https://www.patika.dev/tr)
